@@ -2,3 +2,5 @@
 tech_used.txt
 faiss_index/
 .idea
+venv/*
+.vscode/*
